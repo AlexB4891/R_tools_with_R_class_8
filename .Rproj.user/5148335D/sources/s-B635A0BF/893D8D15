@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573760162719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "893D8D15",
+    "lastKnownWriteTime" : 1573760080,
+    "last_content_update" : 1573760080,
+    "path" : "~/course_R_tools/presentacion_8/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,20",
+        "last_setup_crc32" : "B635A0BF7afdfe28",
+        "scrollLine" : "0",
+        "source_window_id" : "",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

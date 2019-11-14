@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573760419918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9F838390",
+    "lastKnownWriteTime" : 1573680754,
+    "last_content_update" : 1573680754,
+    "path" : "~/course_R_tools/CARGAR_GIT.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "37,20",
+        "scrollLine" : "34"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

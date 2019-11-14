@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573760447590.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "646316446",
+    "id" : "FDC95554",
+    "lastKnownWriteTime" : 1573760552,
+    "last_content_update" : 1573760552932,
+    "path" : "~/course_R_tools/presentacion_8/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
